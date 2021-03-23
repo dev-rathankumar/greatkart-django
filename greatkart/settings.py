@@ -25,7 +25,7 @@ SECRET_KEY = '52$5ujr925j_8)+c4+yhwik_+vq6e13#fxi5**_$rv80pn3(sf'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['greatkart-course-env.eba-rj3mtu3q.us-west-2.elasticbeanstalk.com']
 
 
 # Application definition
